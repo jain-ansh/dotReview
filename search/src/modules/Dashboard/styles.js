@@ -19,7 +19,9 @@ const useStyles = makeStyles((theme) => ({
         display: 'block',
         [theme.breakpoints.up('sm')]: {
             display: 'flex',
-        },
+            flexWrap: 'wrap',
+            justifyContent: 'flex-start',
+        }
     }
 }));
 
