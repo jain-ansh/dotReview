@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+        "name": "HP Laptop",
+        "price": "$1200"
+    },
+    {
+        "id": "2",
+        "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+        "name": "Lenovo Laptop",
+        "price": "$1200"
+    },
+    {
+        "id": "3",
+        "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+        "name": "Dell Laptop",
+        "price": "$1800"
+    },
+    {
+        "id": "4",
+        "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+        "name": "Bed",
+        "price": "$200"
+    },
+    {
+        "id": "5",
+        "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+        "name": "Bed Sheet",
+        "price": "$20"
+    },
+    {
+        "id": "6",
+        "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+        "name": "Apple mobile",
+        "price": "$800"
+    },
+    {
+        "id": "7",
+        "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+        "name": "Samsung Mobile",
+        "price": "$500"
+    },
+    {
+        "id": "8",
+        "imageUrl": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png",
+        "name": "Samsung AC",
+        "price": "$300"
+    }
+]
